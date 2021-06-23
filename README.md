@@ -1,3 +1,5 @@
+<img align="right" src="https://miro.medium.com/max/400/1*GUQp37cfyipL4VWDyeKXTg.gif" width="250">
+
 ## <code>about</code>
 :computer: Web / Mobile developer  
 :book: AI enthusiastic  
