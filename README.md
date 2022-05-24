@@ -1,5 +1,3 @@
-<a href="#"><img align="right" src="img/frog.gif" width="250"></a>
-
 ## <code>about</code>
 :computer: Web / Mobile developer  
 :book: AI enthusiastic  
