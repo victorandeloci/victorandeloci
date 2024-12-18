@@ -1,6 +1,6 @@
 ## <code>about</code>
 :computer: Software Engineer / Tech Lead  
-:book: bookworm 
+:book: bookworm  
 :heart: Open Source
 
 ## <code>dev techs</code>
