@@ -1,6 +1,6 @@
 ## <code>about</code>
-:computer: Web / Mobile developer  
-:book: AI enthusiastic  
+:computer: Software Engineer / Tech Lead  
+:book: bookworm 
 :heart: Open Source
 
 ## <code>dev techs</code>
